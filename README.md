@@ -6,4 +6,6 @@
 可以先用各种搜索引擎搜索答案
 也可以。。。重装吧。。。
 
-教程： https://www.cnblogs.com/ayyl/p/5978418.html
+安装教程： https://www.cnblogs.com/ayyl/p/5978418.html
+
+卸载教程：https://blog.csdn.net/zhengqiqi17/article/details/71535566
